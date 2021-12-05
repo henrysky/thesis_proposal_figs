@@ -27,7 +27,7 @@ Jupyter Notebook
 -   | `Gaia_Spectra.ipynb`_
     | Code to generate figures related to Gaia BP/RP and RVS spectra
 -   | `APOKASC.ipynb`_
-    | Code to generate figures related to APOKASC-2
+    | Code to generate figures related to APOKASC-2 and Ages
 -   | `Gaia_Spiral_Sausage_Alpha.ipynb`_
     | Code to generate figures related to Gaia Spiral/Sausage and alpha distribution of the Galaxy
 -   | `GalaxiaMock.ipynb`_
